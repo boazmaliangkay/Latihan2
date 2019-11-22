@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url(IMG/sky.jpeg);
+    height: 600px;   
+}
+
+.jumbotron .display-4{
+    margin-top: 150px;
+    margin-left: 520px;
+    color: aliceblue;
+}
